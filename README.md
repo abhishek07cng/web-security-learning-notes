@@ -13,6 +13,12 @@ The goal of this repository is to build strong practical skills in:
 - Real-World Exploitation Methodology
 
 ---
+## ⭐ Quick References
+
+- [CSRF Vulnerability Identification Guide](./CSRF-Vulnerability-Identification-Guide.md)
+- [SameSite CheatSheet](./Payloads/samesite-cheatsheet.md)
+- [Referer CheatSheet](./Payloads/csrf-referer-cheatsheet.md)
+- [CSWSH Methodology](./Payloads/cswsh-methodology.md)
 
 # Topics Covered
 
